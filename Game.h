@@ -4,8 +4,8 @@
 #include <string>
 #include <vector>
 #include <iostream>
+#include <random>
 #include "Player.h"
-#include "Die.h"
 using namespace std;
 
 class Game{
